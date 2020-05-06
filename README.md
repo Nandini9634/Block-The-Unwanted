@@ -1,4 +1,4 @@
-# Website Blocker
+# Block The Unwanted
 
 # Description
 
